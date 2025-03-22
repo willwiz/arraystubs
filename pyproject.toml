@@ -1,0 +1,15 @@
+[project]
+name = "arraystubs"
+version = "0.0.1"
+authors = [{ name = "Will Zhang", email = "willwz@gmail.com" }]
+description = "Short typing for numpy arrays"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Development Status :: 0 - Alpha",
+]
+dependencies = [
+  "numpy"
+]
