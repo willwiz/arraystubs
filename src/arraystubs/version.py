@@ -1,6 +1,4 @@
-"""
-Module to expose more detailed version info for the installed `numpy`
-"""
+"""Module to expose more detailed version info for the installed `numpy`."""
 
 version = "0.0.1"
 __version__ = version
